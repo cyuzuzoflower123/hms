@@ -1,0 +1,7 @@
+/* Custom styles */
+.hero-bg{background-image:url('../images/bg.jpg');background-size:cover;background-position:center}
+.card{background:#fff;border-radius:1rem;box-shadow:0 10px 20px rgba(2,6,23,.08);padding:1.25rem}
+.btn{background:#4f46e5;color:#fff;padding:.5rem 1rem;border-radius:.75rem}
+.btn:hover{background:#4338ca}.input{border:1px solid #e2e8f0;border-radius:.75rem;padding:.5rem .75rem;width:100%}
+.table{width:100%;background:#fff;border-radius:.75rem;overflow:hidden;box-shadow:0 10px 20px rgba(2,6,23,.08)}
+.table th{background:#f1f5f9;text-align:left;padding:.75rem}.table td{border-top:1px solid #e2e8f0;padding:.75rem}
